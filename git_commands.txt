@@ -1,0 +1,9 @@
+git init     --------------> initilized the git directory
+
+git add <file name> ----------------> take the file to staging area 
+
+git rm --cached <file name> ------------> take file staging to untrack(file system) or unstaged the file
+
+git status -------------> to see the status fo git
+
+git commit -m "<give message>" <file name> --------> to tracked the file or commit the file
