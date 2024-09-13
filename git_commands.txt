@@ -12,3 +12,7 @@ git remote add origin https://github.com/chinu222/Git-Prectise.git  ------------
 
 git remote -v --------------------------> to see the remote repository add or not
 
+git remote set-url <origin name> https://<token>@github.com/<repository name>  ------------> to set url for private repo without password
+
+
+
