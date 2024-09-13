@@ -7,3 +7,8 @@ git rm --cached <file name> ------------> take file staging to untrack(file syst
 git status -------------> to see the status fo git
 
 git commit -m "<give message>" <file name> --------> to tracked the file or commit the file
+
+git remote add origin https://github.com/chinu222/Git-Prectise.git  ----------------> to add remote repository to local
+
+git remote -v --------------------------> to see the remote repository add or not
+
